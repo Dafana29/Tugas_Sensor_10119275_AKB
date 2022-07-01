@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home" android:title="Home" android:icon="@drawable/ic_baseline_home_24">Home</item>
+    <item android:id="@+id/tentang" android:title="Tentang" android:icon="@drawable/ic_baseline_info_24">Tentang</item>
+    <item android:id="@+id/aplikasi" android:title="Aplikasi" android:icon="@drawable/ic_baseline_perm_device_information_24">Aplikasi</item>
+</menu>
+
+
+    <!-- NIM: 10119275 -->
+    <!-- Nama: Dafana Fikri -->
+    <!-- Kelas: IF-7 -->
